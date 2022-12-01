@@ -4,6 +4,7 @@
 // a = 9, b = -3 -> да 
 // a = -3 b = 9 -> нет
 
+Console.WriteLine("Введите 2 числа");
 int a = Convert.ToInt32(Console.ReadLine());
 int b = Convert.ToInt32(Console.ReadLine());
  if (a == b*b)
